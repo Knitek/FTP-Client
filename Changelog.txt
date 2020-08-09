@@ -1,0 +1,31 @@
+﻿FTP Client Changelog
+
+20190130 v1.1.4
+Changes:
+- changed check update method
+
+20181017 v1.1.3
+Changes:
+- added 'move' option for move file between directores
+
+20180913 v1.1.2
+Changes:
+- changed default directory data definition
+
+20180905 v1.1.1
+Changes:
+- added list of configs
+- added options to "add","edit","delete" config
+- now, Connect to not modify config data
+
+20180904 v1.1
+Changes:
+- added create directory option
+
+20180828 v1.0
+Changes:
+- working upload/download file
+- working list files and directories
+- working delete dir and file
+- working load config from file 
+- working moving between directories
